@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 1d1ea85a94bb4644ea451c9d51d78f80
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - foodObj: {instanceID: 0}
+  - critter: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
